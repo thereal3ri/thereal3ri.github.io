@@ -1,0 +1,40 @@
+[
+  {
+    "1-3Days": [
+      {
+        "workoutType": "strength",
+        "insidersPrice": "250 ETB/month",
+        "outsidersPrice": "300 ETB/month"
+      },
+      {
+        "workoutType": "aerobics",
+        "insidersPrice": "300 ETB/month",
+        "outsidersPrice": "350 ETB/month"
+      },
+      {
+        "workoutType": "cardio",
+        "insidersPrice": "300 ETB/month",
+        "outsidersPrice": "350 ETB/month"
+      }
+    ]
+  },
+  {
+    "4-6Days": [
+      {
+        "workoutType": "strength",
+        "insidersPrice": "400 ETB/month",
+        "outsidersPrice": "500 ETB/month"
+      },
+      {
+        "workoutType": "aerobics_cardio",
+        "insidersPrice": "500 ETB/month",
+        "outsidersPrice": "600 ETB/month"
+      },
+      {
+        "workoutType": "cardio_strength",
+        "insidersPrice": "500 ETB/month",
+        "outsidersPrice": "600 ETB/month"
+      }
+    ]
+  }
+]
