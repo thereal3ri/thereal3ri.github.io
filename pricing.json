@@ -5,11 +5,11 @@
       "outsider": "300 ETB/month"
     },
     "cardio": {
-       "insider": "300 ETB/month",
+      "insider": "300 ETB/month",
       "outsider": "350 ETB/month"
     },
     "aerobics": {
-       "insider": "300 ETB/month",
+      "insider": "300 ETB/month",
       "outsider": "350 ETB/month"
     }
   },
