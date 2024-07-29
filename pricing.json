@@ -1,28 +1,34 @@
 {
   "1-3Days": {
     "strength": {
+      "id": 1,
       "insider": "250 ETB/month",
       "outsider": "300 ETB/month"
     },
     "cardio": {
+      "id": 2,
       "insider": "300 ETB/month",
       "outsider": "350 ETB/month"
     },
     "aerobics": {
+      "id": 3,
       "insider": "300 ETB/month",
       "outsider": "350 ETB/month"
     }
   },
   "4-6Days": {
     "strength": {
+      "id": 1,
       "insider": "400 ETB/month",
       "outsider": "500 ETB/month"
     },
     "aerobics_cardio": {
+      "id": 2,
       "insider": "500 ETB/month",
       "outsider": "600 ETB/month"
     },
     "cardio_strength": {
+      "id": 3,
       "insider": "500 ETB/month",
       "outsider": "600 ETB/month"
     }
